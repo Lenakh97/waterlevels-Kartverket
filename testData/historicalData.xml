@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<tide>
+    <meta licenseurl="http://kartverket.no/data/lisens/"/>
+    <locationlevel unit="cm" reflevel="CD">
+        <location name="Oslo" code="OSL" latitude="59.908559" longitude="10.734510" delay="0" factor="1.00" place="Oslo" obsname="Oslo" obscode="OSL" landlift="0.51"/>
+        <reflevel code="SAFE3" value="326.4" name="Safety class 3 (TEK10/17) with future sea level" descr="1000-year storm-surge return height (safety class 3 in TEK10/17) with future sea level (ref. DSB)" type="ADM"/>
+        <reflevel code="SAFE2" value="304.2" name="Safety class 2 (TEK10/17) with future sea level" descr="200-year storm-surge return height (safety class 2 in TEK10/17) with future sea level (ref. DSB)" type="ADM"/>
+        <reflevel code="1000YMAX" value="280.3" name="High water with 1000 year return period" descr="High water that occurs in average every 1000 years." type="RETURN"/>
+        <reflevel code="SAFE1" value="270.6" name="Safety class 1 (TEK10/TEK17) with future sea level" descr="20-year storm-surge return height (safety class 1 in TEK10/17) with future sea level (ref. DSB)" type="ADM"/>
+        <reflevel code="HOWL" value="270.1" name="Highest Observed Water Level" descr="The highest observed water level for this tide station." info="1914" type="OBS"/>
+        <reflevel code="200YMAX" value="258.0" name="High water with 200 year return period" descr="High water that occurs in average every 200 years." type="RETURN"/>
+        <reflevel code="100YMAX" value="248.2" name="High water with 100 year return period" descr="High water that occurs in average every 100 years" type="RETURN"/>
+        <reflevel code="50YMAX" value="238.2" name="High water with 50 year return period" descr="High water that occurs in average every 50 years." type="RETURN"/>
+        <reflevel code="20YMAX" value="224.5" name="High water with 20 year return period" descr="High water that occurs in average every 20 years" type="RETURN"/>
+        <reflevel code="10YMAX" value="213.7" name="High water with 10 year return period" descr="High water that occurs in average every 10 years." type="RETURN"/>
+        <reflevel code="5YMAX" value="202.2" name="High water with 5 year return period" descr="High water that occurs in average every 5 years." type="RETURN"/>
+        <reflevel code="1YMAX" value="178.1" name="High water with 1 year return period" descr="High water that occurs in average every year." type="RETURN"/>
+        <reflevel code="HAT" value="106.9" name="Highest Astronomical Tide" descr="The highest tidal level which can be predicted to occur under average meteorological conditions and under any combination of astronomical conditions." type="ASTROREF"/>
+        <reflevel code="MHWS" value="90.2" name="Mean High Water Springs" descr="The average height of the high waters of spring tides." type="ASTRO"/>
+        <reflevel code="MHW" value="86.7" name="Mean High Water" descr="The average height of all high waters over a 19-year period." type="ASTROREF"/>
+        <reflevel code="MHWN" value="83.2" name="Mean High Water Neaps" descr="The average height of the high waters of neap tides." type="ASTRO"/>
+        <reflevel code="NN2000" value="74.5" name="NN 2000" descr="Norwegian vertical datum of 2000" type="REF"/>
+        <reflevel code="MSL" value="71.9" epoch="1996-2014" name="Mean Sea Level (1996-2014)" descr="The average height of the surface of the sea for all stages of the tide over a 19-year period" type="REF"/>
+        <reflevel code="MLWN" value="60.6" name="Mean Low Water Neaps" descr="The average height of the low waters of neap tides." type="ASTRO"/>
+        <reflevel code="MLW" value="57.0" name="Mean Low Water" descr="The average height of all low waters over a 19-year period." type="ASTRO"/>
+        <reflevel code="MLWS" value="53.5" name="Mean Low Water Springs" descr="The average height of the low waters of spring tides." type="ASTRO"/>
+        <reflevel code="LAT" value="30.0" name="Lowest Astronomical Tide" descr="The lowest tide level which can be predicted to occur under average meteorological conditions and under any combination of astronomical conditions." type="ASTRO"/>
+        <reflevel code="CD" value="0.0" name="Chart Datum" descr="Reference level for depths in navigational charts and heights in tide tables" type="REF"/>
+        <reflevel code="1YMIN" value="-8.3" name="Low water with 1 year return period" descr="Low water that occurs in average every year." type="RETURN"/>
+        <reflevel code="5YMIN" value="-19.8" name="Low water with 5 year return period" descr="Low water that occurs in average every 5 years." type="RETURN"/>
+        <reflevel code="20YMIN" value="-29.3" name="Low water with 20 year return period" descr="Low water that occurs in average every 20 years." type="RETURN"/>
+        <reflevel code="LOWL" value="-38.1" name="Lowest Observed Water Level" descr="The lowest observed water level for this tide station." info="1.3.2018" type="OBS"/>
+    </locationlevel>
+</tide>
